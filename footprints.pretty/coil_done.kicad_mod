@@ -1,0 +1,616 @@
+(footprint
+	"coil"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property
+		"Reference"
+		"REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "5415b60f-028e-498c-9dc7-cd01eec0fca1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property
+		"Value"
+		"coil"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "866aa8c5-622a-49cd-a844-1d13662fef87")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property
+		"Datasheet"
+		""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6fdb826e-2325-4f6e-982a-cb9ffc1408b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property
+		"Description"
+		""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "87021ce5-44ac-4d22-b554-c194683688c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -10 -10)
+			(xy 11.5 -10)
+			(xy 16.5 6)
+			(xy -13 6)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Cu")
+		(uuid "627973ce-0684-47d3-99d8-69e01d41e240")
+	)
+	(fp_curve
+		(pts
+			(xy 4.486111 -0.302944)
+			(xy 5.077401 -0.639918)
+			(xy 5.069037 -1.488446)
+			(xy 5.055237 -2)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 5.055237 -2)
+			(xy 5.036312 -2.540549)
+			(xy 4.642207 -3.488072)
+			(xy 4.039564 -3.895046)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 4.039564 -3.895046)
+			(xy 3.41256 -4.322523)
+			(xy 2.189016 -4.785)
+			(xy 1.328502 -4.82)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 1.328502 -4.82)
+			(xy 0.425609 -4.855)
+			(xy -1.780182 -4.491518)
+			(xy -2.463556 -4.093036)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -2.463556 -4.093036)
+			(xy -3.190198 -3.674052)
+			(xy -3.321169 -2.627534)
+			(xy -3.394187 -2)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -3.394187 -2)
+			(xy -3.469439 -1.343472)
+			(xy -3.142893 -0.197959)
+			(xy -2.422159 0.291026)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -2.422159 0.291026)
+			(xy -1.653427 0.800513)
+			(xy -0.049561 1.345)
+			(xy 1.116617 1.38)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 1.116617 1.38)
+			(xy 2.333599 1.415)
+			(xy 5.243326 0.969508)
+			(xy 6.065289 0.489016)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 6.065289 0.489016)
+			(xy 6.901879 -0.011979)
+			(xy 6.80295 -1.256487)
+			(xy 6.733138 -2)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 6.733138 -2)
+			(xy 6.656738 -2.772508)
+			(xy 6.019137 -4.116011)
+			(xy 5.138853 -4.687006)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 5.138853 -4.687006)
+			(xy 4.243934 -5.278503)
+			(xy 2.533439 -5.905)
+			(xy 1.351406 -5.94)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 1.351406 -5.94)
+			(xy 0.128517 -5.975)
+			(xy -2.857634 -5.447498)
+			(xy -3.788717 -4.884996)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -3.788717 -4.884996)
+			(xy -4.773698 -4.301991)
+			(xy -4.96442 -2.859493)
+			(xy -5.072087 -2)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -5.072087 -2)
+			(xy -5.183449 -1.111512)
+			(xy -4.753415 0.429981)
+			(xy -3.767847 1.082986)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -3.767847 1.082986)
+			(xy -2.722872 1.756493)
+			(xy -0.52918 2.465)
+			(xy 1.062969 2.5)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 1.062969 2.5)
+			(xy 2.707444 2.535)
+			(xy 6.611451 1.925488)
+			(xy 7.68837 1.280975)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 7.68837 1.280975)
+			(xy 8.767605 0.615961)
+			(xy 8.552125 -1.024527)
+			(xy 8.411037 -2)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 8.411037 -2)
+			(xy 8.261901 -3.004468)
+			(xy 7.358549 -4.743951)
+			(xy 6.198941 -5.478965)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 6.198941 -5.478965)
+			(xy 5.03779 -6.234483)
+			(xy 2.856921 -7.025)
+			(xy 1.369606 -7.06)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 1.369606 -7.06)
+			(xy -0.157043 -7.095)
+			(xy -3.891889 -6.403478)
+			(xy -5.069975 -5.676955)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -5.069975 -5.676955)
+			(xy -6.315951 -4.92993)
+			(xy -6.592408 -3.091453)
+			(xy -6.749987 -2)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -6.749987 -2)
+			(xy -6.912722 -0.879552)
+			(xy -6.401455 1.05792)
+			(xy -5.152735 1.874945)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -5.152735 1.874945)
+			(xy -3.829835 2.712473)
+			(xy -1.02974 3.585)
+			(xy 1.004617 3.62)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 1.004617 3.62)
+			(xy 3.092822 3.655)
+			(xy 8.022773 2.881468)
+			(xy 9.355356 2.072935)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 9.355356 2.072935)
+			(xy 10.674579 1.2439)
+			(xy 10.316563 -0.792567)
+			(xy 10.088937 -2)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 10.088937 -2)
+			(xy 9.851801 -3.236427)
+			(xy 8.660443 -5.37189)
+			(xy 7.219829 -6.270925)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 7.219829 -6.270925)
+			(xy 5.794126 -7.190462)
+			(xy 3.159461 -8.145)
+			(xy 1.383102 -8.18)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 1.383102 -8.18)
+			(xy -0.431069 -8.215)
+			(xy -4.882947 -7.359457)
+			(xy -6.307328 -6.468915)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -6.307328 -6.468915)
+			(xy -7.816955 -5.55787)
+			(xy -8.205133 -3.323412)
+			(xy -8.427887 -2)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -8.427887 -2)
+			(xy -8.657259 -0.647593)
+			(xy -8.087014 1.68586)
+			(xy -6.576823 2.666905)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -6.576823 2.666905)
+			(xy -4.974317 3.668452)
+			(xy -1.551241 4.705)
+			(xy 0.941561 4.74)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 0.941561 4.74)
+			(xy 3.489734 4.775)
+			(xy 9.477292 3.837447)
+			(xy 11.066245 2.864895)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 11.066245 2.864895)
+			(xy 12.622802 1.871839)
+			(xy 12.096265 -0.560608)
+			(xy 11.766837 -2)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 11.766837 -2)
+			(xy 11.426439 -3.468387)
+			(xy 9.924818 -5.999829)
+			(xy 8.201517 -7.062885)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 8.201517 -7.062885)
+			(xy 6.512944 -8.146442)
+			(xy 3.44106 -9.265)
+			(xy 1.391894 -9.3)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 1.391894 -9.3)
+			(xy -0.693562 -9.335)
+			(xy -5.830809 -8.315437)
+			(xy -7.500778 -7.260874)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -7.500778 -7.260874)
+			(xy -9.27671 -6.185809)
+			(xy -9.802595 -3.555372)
+			(xy -10.105787 -2)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -10.105787 -2)
+			(xy -10.417058 -0.415633)
+			(xy -9.810092 2.313799)
+			(xy -8.040111 3.458864)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy -8.040111 3.458864)
+			(xy -6.156318 4.624432)
+			(xy -2.093684 5.825)
+			(xy 0.873801 5.86)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_curve
+		(pts
+			(xy 0.873801 5.86)
+			(xy 3.898179 5.895)
+			(xy 10.975008 4.793427)
+			(xy 12.821038 3.656854)
+		)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.Cu")
+	)
+	(fp_text
+		user
+		"${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "483fe70c-1b16-4931-9ea5-a38adc4a91f3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
